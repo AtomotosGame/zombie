@@ -8,6 +8,9 @@ The game has 2 modes: Single player (against COM), and Multiplayer mode (Online)
 
 ## Video Zombie City
   https://www.loom.com/share/663d1a903f5b4870b5eb71138b243058
+  
+## Video Zombie
+  https://www.loom.com/share/7b271dc18a554faab34a6e9a7c3596c8
 
 ## Screen
   ![image](https://user-images.githubusercontent.com/9028177/195223968-7646884c-bcb9-4dc3-9cdb-c7569b74fb68.png)
